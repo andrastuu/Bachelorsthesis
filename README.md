@@ -7,7 +7,7 @@ Using sentiment analysis with VADER and Text2Emotion on 170,000 Reddit posts, th
 
 ## Methodology
 - **Sentiment Analysis:** Applied VADER and Text2Emotion packages to Reddit posts mentioning GME and AMC.
-- **Financial Data:** Analyzed daily price, short interest, volume, and post mentions for each stock.
+- **Financial Data:** Created Dicounted Cash FLow model, analyzed daily price, short interest, volume, and post mentions for each stock.
 - **Comparative Analysis:** Benchmarked GME’s 2021 price movement against prior short squeezes, such as Volkswagen in 2008.
 
 ## Key Findings
